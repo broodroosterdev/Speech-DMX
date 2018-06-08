@@ -1,0 +1,9 @@
+Main goal: Making an speech-activated dmx controller
+
+Steps:
+[ ] Setting up Google Speech API
+[ ] Displaying speech commands in console
+[ ] Interpreting speech commands into actions
+[ ] Reading config file with light location and command info
+[ ] Using config file to do certain actions over dmx
+[ ] Setting up dmx communication
